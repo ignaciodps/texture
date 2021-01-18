@@ -1,4 +1,4 @@
-# texture
+# Cyber Sec Blog Path
 
 A configurable jekyll theme for simply beautiful blogs.
 
