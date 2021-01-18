@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Ignacio del Peso Sanchez
-  tagline: Developer. Designer
+  tagline: Cyber Sec
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
